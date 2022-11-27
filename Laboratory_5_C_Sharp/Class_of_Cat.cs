@@ -13,7 +13,7 @@ class Cat
     public string Name { get; }
     public Gender catGender { get; }
 
-    public double Energy
+    public double  Energy
     {
         get { return _energy; }
         set
